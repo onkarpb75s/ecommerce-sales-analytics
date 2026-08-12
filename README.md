@@ -242,16 +242,9 @@ This project was created as a **data analytics portfolio project** to demonstrat
 
 **Data Cleaning → SQL → Exploratory Analysis → Business Metrics → Visualization → Dashboard → Business Recommendations**
 
-The focus is not only on creating charts, but on translating data into decisions that a business could act on.
 
----
 
-## 📬 Contact
 
-**Your Name**
-
-- LinkedIn: `YOUR_LINKEDIN_URL`
-- GitHub: `YOUR_GITHUB_URL`
 
 ---
 
