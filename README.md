@@ -46,15 +46,15 @@ The goal is to demonstrate how a data analyst can take raw transactional data an
 
 ### Revenue Trend
 
-![Revenue Trend](/screenshots/revenue_trend.png)
+![Revenue Trend](/revenue_trend.png)
 
 ### Revenue by Category
 
-![Revenue by Category](/screenshots/category_revenue.png)
+![Revenue by Category](/category_revenue.png)
 
 ### Profit by Region
 
-![Profit by Region](/screenshots/regional_profit.png)
+![Profit by Region](/regional_profit.png)
 
 ---
 
