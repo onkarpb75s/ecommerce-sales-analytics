@@ -46,15 +46,15 @@ The goal is to demonstrate how a data analyst can take raw transactional data an
 
 ### Revenue Trend
 
-![Revenue Trend](screenshots/revenue_trend.png)
+![Revenue Trend](/screenshots/revenue_trend.png)
 
 ### Revenue by Category
 
-![Revenue by Category](screenshots/category_revenue.png)
+![Revenue by Category](/screenshots/category_revenue.png)
 
 ### Profit by Region
 
-![Profit by Region](screenshots/regional_profit.png)
+![Profit by Region](/screenshots/regional_profit.png)
 
 ---
 
@@ -195,7 +195,6 @@ It displays KPI cards, revenue trends, category performance, regional profitabil
 
 ---
 
-## ▶️ Run the Project Locally
 
 ### 1. Clone the repository
 
@@ -220,21 +219,6 @@ The dashboard will open in your browser.
 
 ---
 
-## 💡 Future Improvements
-
-Possible next steps:
-
-- Add customer **RFM segmentation**
-- Build true monthly cohort retention analysis
-- Add revenue forecasting
-- Add customer lifetime value
-- Add anomaly detection
-- Build a Power BI version
-- Deploy the Streamlit dashboard
-- Connect the project to PostgreSQL
-- Add automated data-quality tests
-
----
 
 ## 👨‍💻 About This Project
 
